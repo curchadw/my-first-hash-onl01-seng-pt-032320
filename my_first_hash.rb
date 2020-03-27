@@ -1,7 +1,7 @@
 def my_hash(key,value)
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   your_hash = key => value 
-  return your_hash
+ your_hash
   
 end
 
