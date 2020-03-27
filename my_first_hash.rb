@@ -1,5 +1,6 @@
 def my_hash
-  
+  planets = {"planet1"=> "Mercury", "planet2"=> "Venus", "planet3" = > "Earth", "planet4"=> "Mars", "planet5" => "Jupiter"}
+
 end
 
 
